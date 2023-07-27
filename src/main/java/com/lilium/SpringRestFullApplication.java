@@ -1,4 +1,4 @@
-package com.lilium.SpringRESTFull;
+package com.lilium;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
